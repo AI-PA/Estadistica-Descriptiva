@@ -16,3 +16,8 @@ La estadística descriptiva es una de la herramientas fundamentales para cualqui
 
 ![Flujo de trabajo](./img/Flujo_Trabajo_Data.png)
 ![Proceso de trabajo](./img/Proceso.png)
+[Notas de Curso](./Notas/Notas.pdf)
+
+## Personal Project
+
+Como proyecto para acceder a la certificación se va a hacer a traves de dos partes un análisis de datos de depresión que termina con su prueba V de Crammer y el otro es un dashboard para mayor enfoque en la estadística descriptiva
